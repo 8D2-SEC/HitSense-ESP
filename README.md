@@ -19,8 +19,10 @@ Este dispositivo usa altos voltajes no me hago responsable por daños fisicos o 
   -juego offline
 
 ### pasos:
-1.Abre cheat engine y busca el valor de la vida 
+1.Abre cheat engine y busca el valor de la vida
+
 2.En el script a python añade el addres
+
 3.Sube el script a arduino y pon tu SSID PW y la ip que te de flask
 
 # diagrama
