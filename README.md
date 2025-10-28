@@ -1,7 +1,7 @@
 # HitSense-ESP
 Un proyecto de un dispositivo haptico donde puedes recibir sensacion de daño al jugar 
 
-##disclaimer
+## disclaimer
 Este dispositivo usa altos voltajes no me hago responsable por daños fisicos o **psicologicos** todo debe hacerce con precuacion y responsabilidad
 
 -materiales:
@@ -18,10 +18,10 @@ Este dispositivo usa altos voltajes no me hago responsable por daños fisicos o 
   -python
   -juego offline
 
-###pasos:
+### pasos:
 1.Abre cheat engine y busca el valor de la vida 
 2.En el script a python añade el addres
 3.Sube el script a arduino y pon tu SSID PW y la ip que te de flask
 
-#diagrama
+# diagrama
 
