@@ -10,7 +10,8 @@ No usarlo prologadamente ni si tienes problemas al corazon
   - Bateria (yo use una lipo 3.7v)
   
 
-  - Transformador flyback pequeño (si no consigues busca en juguetes de bromas yo lo saque de este valiente compañero: <img src="https://github.com/8D2-SEC/HitSense-ESP/raw/main/img/dcd4ffee-c84b-4b2f-b2bd-fa0c20e818af.jpg" width="100" height="100">)
+  - Transformador flyback pequeño (si no consigues busca en juguetes de bromas yo lo saque de este valiente compañero:
+  - <img src="https://github.com/8D2-SEC/HitSense-ESP/raw/main/img/dcd4ffee-c84b-4b2f-b2bd-fa0c20e818af.jpg" width="100" height="100">
   
   - resitencia 
   
@@ -34,11 +35,11 @@ No usarlo prologadamente ni si tienes problemas al corazon
 
 # diagrama
 el diagrama es sencillo
-<img src="https://github.com/8D2-SEC/HitSense-ESP/blob/main/img/Schematic_shockgames_2025-10-28.png" width="600" height="501">)
+<img src="https://github.com/8D2-SEC/HitSense-ESP/blob/main/img/Schematic_shockgames_2025-10-28.png" width="600" height="501">
 
-<img src="https://github.com/8D2-SEC/HitSense-ESP/blob/main/img/78bc5b08-0118-4968-bf98-400b1e25a2fb.jpg" width="500" height="250">)
+<img src="https://github.com/8D2-SEC/HitSense-ESP/blob/main/img/78bc5b08-0118-4968-bf98-400b1e25a2fb.jpg" width="500" height="250">
 ## Imagenes
 https://github.com/8D2-SEC/HitSense-ESP/blob/main/img/50e8a438-54ce-4286-9f40-d60da5c8ea15.jpg
-<img src="https://github.com/8D2-SEC/HitSense-ESP/blob/main/img/50e8a438-54ce-4286-9f40-d60da5c8ea15.jpg">)
+<img src="https://github.com/8D2-SEC/HitSense-ESP/blob/main/img/50e8a438-54ce-4286-9f40-d60da5c8ea15.jpg">
 
 
